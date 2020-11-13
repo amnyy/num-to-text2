@@ -1,2 +1,3 @@
+include ':numText'
 include ':app'
 rootProject.name = "Num To Text"
